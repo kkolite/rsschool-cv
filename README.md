@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://irinainina.github.io/rsschool-cv/cv
+https://kkolite.github.io/rsschool-cv/cv
